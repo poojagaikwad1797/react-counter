@@ -23,16 +23,17 @@ export const slice = createSlice({
       }
     },
     incrementByAmount: (state, action) => {
-      if(action.payload >= 1){
-        state.value += action.payload;
+      if(action.payload >= 1 && action.payload <= 6){
+       state.value += action.payload
         state.err =""}else{
-          state.err ="Value is less than 1"
-        }
+         state.err ="Value is less than 1 or greater than 6"
+        }/*
         if(action.payload <= 6){
           state.value += action.payload;
           state.err =""}else{
             state.err ="Value is greater than 6"
-          }
+            state.value = state.value;
+          }*/
           if(action.payload == ""){
               state.err ="Input is empty"
             }
