@@ -1,4 +1,4 @@
-# react-counter
+# react-counter [Live App](https://mplussoftassignment.netlify.app/)
 ## Pooja Gaikwad
 ### Create a counter app in React JS + Redux
 #### 1) Display initial count to 10.
