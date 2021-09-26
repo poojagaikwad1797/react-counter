@@ -26,3 +26,10 @@
  <img width="960" alt="empty" src="https://user-images.githubusercontent.com/47143797/134794193-23d28013-f4ec-436f-a7d8-8ccbf3b7cbb1.png">
 
  #### d. Show error on submit if input value is less than 1 or greater than 6.
+ 
+ <img width="960" alt="lesser" src="https://user-images.githubusercontent.com/47143797/134794775-b9896231-524b-495b-9c76-ff186a1fde3a.png">
+
+ 
+ <img width="960" alt="greater" src="https://user-images.githubusercontent.com/47143797/134794712-78c877b1-ccff-45b7-8ee5-7b9f943bacc6.png">
+
+
